@@ -7,7 +7,7 @@ public class types {
 System.out.println("main types of variable are");
 System.out.println("\n1.instance variable");
 System.out.println("\n2.static variable");
-System.out.println("\nanother non imp types dont mention just concept");
+System.out.println("\n Separate Program");
 System.out.println("\n1.local variable");
 System.out.println("\n2.global variable=access by anyone,start of class,outside method/block");
 
